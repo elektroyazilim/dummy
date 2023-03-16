@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestNGIntegration Suite">
+    <test name="testlerim" >
+        <classes>
+            <class name="kodlanir.AbTest"></class>
+            <class name="kodlanir.DeTest"></class>
+            <class name="kodlanir.Pr"></class>
+            
+        </classes>
+    </test>
+
+</suite>
